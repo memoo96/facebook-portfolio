@@ -1,0 +1,110 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #e6e3e8;
+	font-family: Tahoma;
+}
+
+.header{
+	background-color: #3b5998;
+	overflow: hidden;
+	height: 90px;
+}
+.header .head{
+	width: 50%;
+	float: left;
+}
+.header .head h1{
+	color: #ffffff;
+	font-size: 50px;
+	margin-left: 180px;
+	margin-top: 15px;
+}
+.header .form{
+	float: left;
+	width: 50%;
+}
+.header .form ul{
+	list-style-type: none;
+}
+.header .form ul li{
+	float: left;
+	width: 30%;
+}
+.header .form ul li label{
+	color: #ffffff;
+}
+.header .form ul li p{
+	color: #ffffff;
+	margin-top: 5px;
+	margin-left: 55px;
+	font-size: 14px;
+}
+.header .form ul li button{
+	border: 2px solid #e9e8ec;
+	background: none;
+	color: #ffffff;
+	padding: 3px;
+	width: 60px;
+	height: 25px;
+	margin-top: 20px;
+}
+
+.content{
+	background-color: #ff0000;
+	margin-top: 30px;
+}
+.content .image{
+	width: 50%;
+	float: left;
+}
+.content .image img{
+	margin-left: 180px;
+	margin-top: 30px;
+	width: 300px;
+	height: 300px;
+}
+.content .content-form{
+	width: 50%;
+	float: left;
+}
+.content .content-form ul{
+	list-style-type: none;
+}
+.content .content-form ul li{
+	width: 100%;
+	margin-bottom: 10px;
+}
+.content .content-form ul li .p1{
+	font-weight: bold;
+}
+.content .content-form ul li input{
+	border: 2px solid #69686f;
+	margin-bottom: 10px;
+	padding:5px;
+}
+.content .content-form ul li .in{
+	margin-left: 10px;
+}
+.content .content-form ul li .in2{
+	width: 377px;
+}
+.content .content-form ul li .birth{
+	margin-top: 50px;
+}
+.content .content-form ul li span{
+	font-size: 14px;
+	color: #1837e7;
+}
+.content .content-form .ratio{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.content .content-form ul li button{
+	padding: 10px;
+	background-color: #148514;
+	width: 200px;
+	height: 50px;
+	color: #ffffff;
+	border: 2px solid #ceced7;
+}
